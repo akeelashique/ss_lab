@@ -1,0 +1,10 @@
+
+9	ONE
+
+c	DATA
+
+16	ABC
+
+19	A
+
+1a	TWO
